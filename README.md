@@ -44,6 +44,5 @@ Tools Used
 
 Author
 Uppara Uday Sagar
-GitHub: https://github.com/yourusername
 --------------------------------------------------
 Data Source: - www.data.gov.in
